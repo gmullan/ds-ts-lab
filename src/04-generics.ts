@@ -1,3 +1,4 @@
+//learns how one function can work with different types
 import {friends, colleagues} from './01-basics'
 import {Friend, Colleague} from './myTypes'
 

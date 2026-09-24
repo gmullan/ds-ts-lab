@@ -1,4 +1,4 @@
-// (Optional) Change the names below to your friends.
+//creates the data 
 import {Friend, Colleague, ColleagueHistory } from './myTypes'
 
 const friend1 : Friend = {

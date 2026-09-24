@@ -1,3 +1,4 @@
+//learns functions, arrays, callbacks, and optional properties
 import { Friend, Colleague, EmailContact } from './myTypes'
 import { friends } from './01-basics'
 import { colleagues } from './01-basics'

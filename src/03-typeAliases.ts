@@ -1,3 +1,4 @@
+//learns union types, type aliases and narrowing
 import {
   ColleagueV2,
   Friend,
